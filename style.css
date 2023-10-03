@@ -6,21 +6,25 @@
 
 nav ul {
     list-style: none; 
+    text-align: center;
 }
 nav li {
     display: inline; 
     margin-right: 20px; 
+    margin: 20px;
 }
 nav a {
     text-decoration: none; 
-    font-weight: bold; 
-    float: right;
+    font-size: 23px;
     margin: 10px;
     padding: 10px;
+
 }
-nav h1{
+nav h1 {
     margin: 10px 10px 10px;
 }
-header{
-    background-color: aquamarine;
+header {
+    background-color: #0b7454; 
+    color: #fff; 
+    padding: 1rem; 
 }
